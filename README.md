@@ -42,7 +42,7 @@ Una vez obtenido el resultado podremos exportarlo en *XLSX*, *PDF* o *imprimirlo
 
 También, podremos filtrar para *acceder* o *modificar* [^1] los acuerdos comerciales existentes. 
 
-[^1]: [Casos de modificación](#modificación)
+[^1]: [Casos de modificación](#modificación): Será provisorio sólo en casos de acuerdos con anticipos. Este admitirá a la hora de querer modificar el acuerdo la posibilidad de editar **TODOS** los campos, incluyendo el detalle de los rangos, permitiendo eliminar los existentes y agregar nuevos períodos e importes. A diferencia del caso DEFINITIVO, que este será NO EDITABLE, solo permitiendo agregar un archivo (acuerdo final firmado).
 
 
 ![Tabla de resultados](attachments/tabla.png)
@@ -122,6 +122,3 @@ Por último se permite agregar un path sobre donde se ubicará el archivo
 
 # Referencias
 
-
-## Modificación: 
-Será provisorio sólo en casos de acuerdos con anticipos. Este admitirá a la hora de querer modificar el acuerdo la posibilidad de editar **TODOS** los campos, incluyendo el detalle de los rangos, permitiendo eliminar los existentes y agregar nuevos períodos e importes. A diferencia del caso DEFINITIVO, que este será NO EDITABLE, solo permitiendo agregar un archivo (acuerdo final firmado).
